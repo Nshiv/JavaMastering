@@ -1,3 +1,5 @@
+package methodsPractice;
+
 public class SecondMinutesChallenge
 {
     public static void main(String[] args)

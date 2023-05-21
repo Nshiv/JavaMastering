@@ -1,3 +1,5 @@
+package methodsPractice;
+
 public class AreaOverloading
 {
     public static void main(String[] args)

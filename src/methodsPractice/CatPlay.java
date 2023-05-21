@@ -1,3 +1,5 @@
+package methodsPractice;
+
 public class CatPlay
 {
     public static void main(String[] args)

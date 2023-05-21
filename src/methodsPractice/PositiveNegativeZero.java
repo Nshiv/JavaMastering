@@ -1,3 +1,5 @@
+package methodsPractice;
+
 import java.util.Scanner;
 
 public class PositiveNegativeZero

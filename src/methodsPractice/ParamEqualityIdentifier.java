@@ -1,3 +1,5 @@
+package methodsPractice;
+
 public class ParamEqualityIdentifier
 {
     public static void main(String[] args)

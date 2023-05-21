@@ -1,3 +1,5 @@
+package methodsPractice;
+
 public class MinutesToYear
 {
     public static void main(String[]args)
