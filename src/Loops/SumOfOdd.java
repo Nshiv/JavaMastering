@@ -26,12 +26,13 @@ public class SumOfOdd
     public static int getSumOfOdd(int a , int b)
     {
         int sum = 0;
+        if(a<=0 || b<=0)
+        {
+            return -1;
+        }
         for(int number =a;number<=b;number++)
         {
-            if(number<=0)
-            {
-                return -1;
-            }
+
             if(isOdd(number))
             {
                 sum=sum+number;
