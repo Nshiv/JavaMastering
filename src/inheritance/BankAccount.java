@@ -9,6 +9,7 @@ public class BankAccount {
 
     public BankAccount()
     {
+        this("221122",200, "lorem","test@test.com","83683465");
         System.out.println("Emptly constructior called");
     }
 

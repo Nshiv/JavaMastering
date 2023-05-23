@@ -6,7 +6,7 @@ public class MainBankAccount
 {
     public static void main(String[] args)
     {
-        BankAccount ba = new BankAccount("221122",200, "lorem","test@test.com","83683465");
+        BankAccount ba = new BankAccount();
         System.out.println(ba.getAccount_number());
         System.out.println(ba.getCust_name());
         System.out.println(ba.getEmail());
