@@ -7,6 +7,20 @@ public class BankAccount {
     private String email;
     private String phone;
 
+    public BankAccount()
+    {
+        System.out.println("Emptly constructior called");
+    }
+
+    public BankAccount(String account_number, double account_balance, String cust_name, String email, String phone)
+    {
+        System.out.println("Constructor with parameter is calles ");
+        this.account_number = account_number;
+        this.account_balance = account_balance;
+        this.cust_name = cust_name;
+        this.email= email;
+        this.phone= phone;
+    }
     public void depositFunds(double depositeAmount)
     {
      account_balance +=depositeAmount;
