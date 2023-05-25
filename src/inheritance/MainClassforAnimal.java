@@ -4,8 +4,8 @@ public class MainClassforAnimal
 {
     public static void main(String [] args)
     {
-        Animal animal = new Animal("Generic Animal", "Big",500);
-        doAnimalStuff(animal,"slow");
+        //Animal animal = new Animal("Generic Animal", "Big",500);
+        //doAnimalStuff(animal,"slow");
         Dog dog = new Dog();
         doAnimalStuff(dog,"fast");
     }

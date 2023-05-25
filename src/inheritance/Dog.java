@@ -4,6 +4,6 @@ public class Dog extends Animal
 {
     public Dog()
     {
-     super("jimmy", "small",50);
+     super("Jimmy","Fast",300);
     }
 }
