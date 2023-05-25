@@ -7,7 +7,6 @@ class Test extends Object {
         System.out.println(stu.toString());
         System.out.println(stu);
     }
-
 }
 
 class  Students
