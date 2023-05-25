@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.SimpleCalculator;
+package knowledgeBase;
 
 public class CalculatorMain
 {

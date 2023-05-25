@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.Car;
+package knowledgeBase;
 
 public class MainCar
 {

@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.BankAccount;
+package knowledgeBase;
 
 public class MainBankAccount
 {

@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.Person;
+package knowledgeBase;
 
 public class PersonMain
 {

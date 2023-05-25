@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.Wall;
+package knowledgeBase;
 
 public class MainWall
 {

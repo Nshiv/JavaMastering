@@ -1,6 +1,6 @@
 //Read me
 // this example is for Constructior chaining
-package inheritance;
+package knowledgeBase;
 
 public class Customer
 {

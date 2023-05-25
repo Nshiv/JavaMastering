@@ -1,4 +1,4 @@
-package inheritance;
+package knowledgeBase;
 
 public class BankAccount {
     private String account_number;

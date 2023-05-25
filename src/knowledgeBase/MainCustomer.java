@@ -1,6 +1,4 @@
-package mainInheritance;
-
-import inheritance.Customer;
+package knowledgeBase;
 
 public class MainCustomer
 {

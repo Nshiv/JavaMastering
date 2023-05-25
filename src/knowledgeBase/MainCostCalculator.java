@@ -1,8 +1,4 @@
-package mainInheritance;
-
-import inheritance.Calculator;
-import inheritance.Carpet;
-import inheritance.Floor;
+package knowledgeBase;
 
 public class MainCostCalculator
 {
