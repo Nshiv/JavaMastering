@@ -2,7 +2,7 @@ package inheritance;
 
 public class Animal
 {
-    private String type;
+    public String type;
     private String size;
     private double weight;
 
