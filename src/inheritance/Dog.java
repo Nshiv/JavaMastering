@@ -32,11 +32,41 @@ public class Dog extends Animal
     public void makeNoise() {
         //System.out.println("Dog Class");
         super.makeNoise();
+        //
     }
 
     @Override
     public void move(String speed) {
         super.move(speed);
-        System.out.println("Dogs walk and run in styles");
+        //System.out.println("Dogs walk and run in styles");
+        if(speed=="slow")
+        {
+         walk();
+         wagTail();
+        }else {
+            run();
+            bark();
+        }
     }
+
+    private void bark()
+    {
+        System.out.println("Woof");
+    }
+
+    private void walk()
+    {
+        System.out.println("Dog is Walking");
+    }
+
+    private void run()
+    {
+        System.out.println("Dog is running");
+    }
+
+    private void wagTail()
+    {
+        System.out.println("Tail Wagging");
+    }
+
 }

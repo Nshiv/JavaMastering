@@ -10,10 +10,10 @@ public class MainClassforAnimal
         //doAnimalStuff(dog,"slow");
 
         Dog golden_r = new Dog("bull dog", 45);
-        doAnimalStuff(golden_r,"140");
+        doAnimalStuff(golden_r,"slow");
 
         Dog retriever = new Dog("golder retriver", 36,"normal","round");
-        doAnimalStuff(retriever,"400");
+        doAnimalStuff(retriever,"fast");
     }
 
     public static void doAnimalStuff(Animal animal, String speed)
