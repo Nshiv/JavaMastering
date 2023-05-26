@@ -22,8 +22,5 @@ public class MainWorker
         System.out.println("age is "+mary.getAge());
         System.out.println("weekly paycheck is "+mary.collectPay());
         System.out.println("Holiday paycheck  is "+ mary.getDoublepay());
-
-
-
     }
 }
