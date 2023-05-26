@@ -6,12 +6,12 @@ public class TextBlock
     {
         String textblock = """
                                     Main Heading:
-                                    \u2002 data member
-                                    \u2002 second data member
-                                         \u2002 sub data member""";
-        //System.out.println(textblock);
+                                    \u2022 data member
+                                    \u2022 second data member
+                                         \u2022 sub data member""";
+        System.out.println(textblock);
 
-        String textblock1 = """
+       /* String textblock1 = """
                 
                 *
                 **
@@ -19,6 +19,6 @@ public class TextBlock
                 ****
                 
                 """;
-        System.out.println(textblock1);
+        System.out.println(textblock1);*/
     }
 }
