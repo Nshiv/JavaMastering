@@ -4,7 +4,7 @@ public class StringInspectionmethods
 {
     public static void main(String [] args)
     {
-        getinformation("Current city of mine is Agra");
+        getinformation("Current city of mine is Agra c");
         //getinformation("");
         //getinformation("    ");
 
@@ -35,11 +35,17 @@ public class StringInspectionmethods
         // 5.Last character
         System.out.printf("Last Character of string is %c%n",str.charAt(lenght-1));
 
-        // Index of A in String
+        // 6.Index of A in String
         System.out.printf("Index of character A is %d%n",str.indexOf("A"));
 
+        // 7.getting index of word
 
+        System.out.printf("Index of word mine is %d%n",str.indexOf("mine"));
 
+        //8. Getting last index of charactrer
+        System.out.printf("last Index of character c is %d%n",str.lastIndexOf('c',24));
+
+        System.out.printf("Index of character m is %d%n",str.indexOf("m",15));
 
 
 
