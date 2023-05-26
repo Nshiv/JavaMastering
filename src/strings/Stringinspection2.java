@@ -4,7 +4,7 @@ public class Stringinspection2
 {
     public static void main(String[] args)
     {
-        getStringinformation("string operations are going one");
+        getStringinformation("String operations are going one");
 
     }
 
@@ -49,6 +49,8 @@ public class Stringinspection2
         // with igonring case sensitivity
 
         System.out.println(str.compareToIgnoreCase(str1));
+
+        System.out.println(str.contentEquals(str1));
     }
 
 }
