@@ -11,7 +11,7 @@ public class MainpersonInheritance
         System.out.println(sf.getAge());
         System.out.println(sf.getSalary());
 
-        
+
 
 
 
