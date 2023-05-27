@@ -11,6 +11,12 @@ public class MainPerson
        Staff sf = new Staff("SDET","Gurgaon",emp);
 
         System.out.println(sf.getPersonName());
+        System.out.println(emp.getPerson().getAge());
+        String[] courses1 = fs.getCorses();
+        for (String course : courses1) {
+            System.out.println(course);
+        }
+
 
 
 
