@@ -1,0 +1,20 @@
+Write a program to reverse a string.
+Write a program to check if a string is a palindrome.
+Write a program to find the length of a string.
+Write a program to count the occurrence of a specific character in a string.
+Write a program to check if two strings are anagrams.
+Write a program to find the first non-repeated character in a string.
+Write a program to check if a string contains only digits.
+Write a program to remove duplicate characters from a string.
+Write a program to check if a string is a valid palindrome considering only alphanumeric characters.
+Write a program to find the longest common prefix among an array of strings.
+Write a program to check if a string is a valid parentheses expression.
+Write a program to reverse the words in a string.
+Write a program to find the minimum window substring in a string.
+Write a program to generate all permutations of a string.
+Write a program to find the longest palindromic substring in a string.
+Write a program to implement the Aho-Corasick algorithm for string matching.
+Write a program to implement the Rabin-Karp algorithm for string matching.
+Write a program to find the longest common subsequence between two strings.
+Write a program to find the minimum number of operations required to convert one string to another using edit operations (insert, delete, replace).
+Write a program to implement the Knuth-Morris-Pratt algorithm for string matching.
