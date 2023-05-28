@@ -4,8 +4,8 @@ public class ReverseString
 {
   public static void main(String[] args)
   {
-      System.out.println(getReverseString("The glass is half full"));
-      System.out.println(getReverseString1("The glass is half full"));
+      //System.out.println(getReverseString("The glass is half full"));
+      System.out.println(getReverseString1("The"));
   }
 
   public static String getReverseString(String str)
