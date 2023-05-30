@@ -12,6 +12,19 @@ public class ArrayDemo1
         //array initialiser
         int[] arrayDemo = new int[] {10,20,40,60};
 
+        int[] arraydemo1 = {78,56,89,9,545,456546,};
+
+        //lenght
+        System.out.println(arrayDemo.length);
+
+        // value
+
+        System.out.println(arrayDemo[0]);
+        System.out.println(arraydemo1[4]);
+
+        //last element of aaray
+        System.out.println(arraydemo1.length-1);
+
 
     }
 }
