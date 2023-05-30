@@ -25,6 +25,13 @@ public class ArrayDemo1
         //last element of aaray
         System.out.println(arraydemo1.length-1);
 
+        //traversing to all array element
+
+        for(int i=0; i<arraydemo1.length;i++)
+        {
+            System.out.println(arraydemo1[i]);
+        }
+
 
     }
 }
