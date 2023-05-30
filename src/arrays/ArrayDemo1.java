@@ -9,6 +9,9 @@ public class ArrayDemo1
         double[] myarray1 = new double[10];
         myarray1[2]=56.89;
 
+        //array initialiser
+        int[] arrayDemo = new int[] {10,20,40,60};
+
 
     }
 }
