@@ -22,7 +22,7 @@ public class Experiment
         Iterator iterator = list.iterator();
         while (iterator.hasNext())
         {
-            var element = iterator.next();
+            var element = iterator.hasNext();
             System.out.println(element);
         }
 
