@@ -1,6 +1,8 @@
 package collections;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class ArrayListDemo
@@ -36,6 +38,40 @@ public class ArrayListDemo
         // clear list
         students.clear();
         System.out.println(students);
+
+        //adding again
+        students.add(0,input);
+
+        // getting an element asper index
+        System.out.println(students.get(0));
+
+        //
+        students.add("shiv");
+        students.add("Km");
+
+        //Validating is emply
+        System.out.println(students.isEmpty());
+
+        // getting last index of students reference variable
+        students.lastIndexOf(students);
+
+        //ceating sublist
+        List sublist = students.subList(0,3);
+        System.out.println(sublist);
+
+        //adding array to the LIst
+        String[] fruits = {"Apples","Bananas","Mnagoes","Peaches"};
+        students.add(Arrays.toString(fruits));
+        System.out.println(students);;
+
+        //adding a new List
+        String[] flour = {"wheat","bajra"};
+        List newone = List.of(flour);
+        students.add(newone);
+        System.out.println(students);
+
+        //getting a array from list
+        System.out.println(students.get(3));
 
 
     }
