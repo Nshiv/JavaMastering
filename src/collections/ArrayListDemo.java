@@ -73,6 +73,10 @@ public class ArrayListDemo
         //getting a array from list
         System.out.println(students.get(3));
 
+        //getting
+
+        System.out.println(students.getClass().getName());
+
 
     }
 }
