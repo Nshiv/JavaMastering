@@ -1,0 +1,9 @@
+1. Write a program that creates a list of integers and iterates over the list using an iterator. Print the square of each number.
+
+2. Write a program that creates a list of strings and iterates over the list using an iterator. Count the number of strings that start with the letter "A".
+
+3. Write a program that creates a list of doubles and iterates over the list using an iterator. Calculate the sum of all the numbers in the list.
+
+4. Write a program that creates a list of characters and iterates over the list using an iterator. Remove any vowels (a, e, i, o, u) from the list.
+
+5. Write a program that creates a list of names and iterates over the list using an iterator. Add the prefix "Mr." to each name.
