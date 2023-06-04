@@ -19,5 +19,25 @@ public class ListArrayList
         // using addall
         list.addAll(newList);
         System.out.println(list);
+
+        //getting index of elements in lsit
+
+        System.out.println(list.indexOf("data"));
+        System.out.println(list.indexOf("Data"));
+
+        // adding few elements
+
+        list.add("England");
+        list.add("India");
+        list.add("US");
+
+        //remove all
+
+        list.removeAll(List.of("data","Data"));
+        System.out.println(list);
+
+
+
+
     }
 }
