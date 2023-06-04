@@ -11,5 +11,9 @@ public class ArrayArrayList
         var liststu = Arrays.asList(students);
         System.out.println(liststu);
 
+        //can not add / remove as Origin string[] is immutables
+        liststu.add("new data");
+        System.out.println(liststu);
+
     }
 }
