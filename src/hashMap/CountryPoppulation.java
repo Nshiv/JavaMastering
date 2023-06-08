@@ -13,9 +13,20 @@ public class CountryPoppulation
       population.put("Bangladesh",29);
       population.put("Nigeria",28);
       population.put("Brazil",27);
-        System.out.println(population);
+      population.put("India",100/3);
 
-        System.out.println(population.get("Idia"));
+      //printing complete HashMap of given values
+        System.out.println(population);
+      //Printing only one value of given key
+        System.out.println(population.get("India"));
+
+        //Vlaidating if there is any key present or not
+        //return type is true or false;
+        System.out.println(population.containsKey("Brazil"));
+        System.out.println(population.containsKey("Chin"));
+
+        //
+
 
     }
 
