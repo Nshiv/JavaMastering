@@ -29,6 +29,21 @@ public class DemoHashSet
         hs.remove(4);
         hs.remove(78);
         System.out.println(hs);
+        if(!hs.contains(4))
+        {
+            System.out.println("Entry of 4 is deleted");
+        }
+
+        // getting size of HashSet
+
+        System.out.println(hs.size());
+
+        //checking whether it is empty or have values
+
+        System.out.println(hs.isEmpty());
+
+
+
 
     }
 }
