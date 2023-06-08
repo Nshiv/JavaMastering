@@ -16,16 +16,32 @@ public class CountryPoppulation
       population.put("India",100/3);
 
       //printing complete HashMap of given values
-        System.out.println(population);
+       // System.out.println(population);
       //Printing only one value of given key
-        System.out.println(population.get("India"));
+       // System.out.println(population.get("India"));
 
         //Vlaidating if there is any key present or not
         //return type is true or false;
-        System.out.println(population.containsKey("Brazil"));
-        System.out.println(population.containsKey("Chin"));
+        //System.out.println(population.containsKey("Brazil"));
+        //System.out.println(population.containsKey("China"));
 
-        //
+        //removing a key from hashmap
+
+        System.out.println(population.remove("China",140));
+        System.out.println(population.remove("India"));
+        System.out.println(population);
+
+        //getting the size
+
+        System.out.println(population.size());
+
+        //getting check wether  is emplty or not
+        System.out.println(population.isEmpty());
+
+        //clear the map
+        population.clear();
+       //
+        System.out.println(population);
 
 
     }
