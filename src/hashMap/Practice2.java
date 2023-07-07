@@ -28,6 +28,9 @@ public class Practice2
             int element = e.getKey();
             int frequenc = e.getValue();
             System.out.println(element+"  "+frequenc);
+            System.out.println("step finished");
+
+            System.out.println("ddvkfvhlnk");
         }
 
     }
