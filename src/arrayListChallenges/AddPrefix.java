@@ -28,6 +28,7 @@ public class AddPrefix {
             String element = iterator.next();
             element = prefix + element;
             newList.add(element);
+            System.out.printf("JUst fir====");
         }
         return newList;
     }
