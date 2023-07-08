@@ -8,6 +8,7 @@ public class CalculateInterestRate
         {
             System.out.println(calcilateInterest(1000, rate));
         }
+        System.out.println("Test ci=ommit ");
     }
 
     public static double calcilateInterest(double amount, double rate)
