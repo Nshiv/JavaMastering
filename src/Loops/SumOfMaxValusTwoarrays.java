@@ -17,7 +17,7 @@ public class SumOfMaxValusTwoarrays
 
     public static void main(String[]args)
     {
-        int[] array1 =  {45,67,903,56};
+        int[] array1 =  {45,67,903,56,45466};
         int[] array2 = {334,564,75,89,23,10};
         System.out.println(getMax(array1)+getMax(array2));
     }
