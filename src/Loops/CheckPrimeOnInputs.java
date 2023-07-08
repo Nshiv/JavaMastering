@@ -10,6 +10,7 @@ public class CheckPrimeOnInputs
        System.out.println("Enter your number");
        int num = sc.nextInt();
         System.out.println(isPrime(num));
+        System.out.println("test commit");
     }
 
     public static boolean isPrime(int n)
