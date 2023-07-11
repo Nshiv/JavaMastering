@@ -1,11 +1,8 @@
-package collectionsPreparation;
+package collectionsPreparationLIst;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
-
-import static java.util.Collections.list;
 
 /*Write a method that accepts a List<String> as input and returns a new List<String>
  with the elements reversed. The original list should remain unchanged.*/

@@ -9,7 +9,7 @@ need to find out unassigned array */
 - that's it
 * */
 
-package collectionsPreparation;
+package collectionsPreparationLIst;
 
 import java.util.ArrayList;
 import java.util.Arrays;

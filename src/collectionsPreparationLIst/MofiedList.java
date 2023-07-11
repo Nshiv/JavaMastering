@@ -1,4 +1,4 @@
-package collectionsPreparation;
+package collectionsPreparationLIst;
 
 import java.util.ArrayList;
 import java.util.Arrays;
