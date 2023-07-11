@@ -1,5 +1,7 @@
 package collectionsPreparation;
 
+/*Write a method that accepts an integer array as input and converts it to a list.
+Only include the even numbers from the array in the resulting list.*/
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
