@@ -1,0 +1,20 @@
+Problem 1: Remove Duplicates from a List
+Write a method that accepts a List of integers and removes any duplicate
+elements from the list, keeping only the distinct values.
+
+Problem 2: List Intersection
+Write a method that accepts two Lists of integers and returns a
+new List that contains only the elements that are common between the two input lists.
+
+Problem 3: List Partitioning
+Write a method that accepts a List of integers and partitions it into two lists:
+ one containing all the even numbers and the other containing all the odd numbers.
+
+Problem 4: List Sorting
+Write a method that accepts a List of integers and sorts the elements in ascending order
+ using a sorting algorithm of your choice (e.g., bubble sort, insertion sort, merge sort, etc.).
+
+Problem 5: List Rotation
+Write a method that accepts a List of integers and an integer value representing
+the number of positions to rotate the list. Implement the rotation operation by
+shifting the elements to the right (or left) by the specified number of positions.
