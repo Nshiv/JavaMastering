@@ -1,0 +1,13 @@
+Easy Set Programming Exercises:
+
+Find the Union of Two Sets: Write a function that takes two sets as input and returns their union (all unique elements from both sets).
+Find the Intersection of Two Sets: Write a function that takes two sets as input and returns their intersection (common elements in both sets).
+Check Subset: Write a function that checks if one set is a subset of another set.
+Remove Duplicates from a Set: Write a function that removes duplicates from a set and returns a new set without duplicates.
+Set Complement: Write a function that takes two sets and returns the complement set of the first set with respect to the second set.
+Medium Set Programming Exercises:
+
+Set Symmetric Difference: Write a function that takes two sets as input and returns their symmetric difference (elements that are present in one set but not in both).
+Power Set Generation: Write a function that generates the power set of a given set (all possible subsets, including the empty set and the set itself).
+Set Operations Using Bitwise Operators: Implement set union, intersection, and difference operations using bitwise operators (AND, OR, XOR).
+Set Partitioning: Write a function that partitions a set into subsets such that the sum of elements in each subset is equal.
