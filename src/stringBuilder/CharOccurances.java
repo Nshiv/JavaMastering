@@ -18,7 +18,7 @@ public class CharOccurances
 
     public static int getoccurances(String str,char ch )
     {
-        StringBuilder sb = new StringBuilder(str);
+        StringBuffer sb = new StringBuffer(str);
         int count =0;
         for(int i=0;i<str.length();i++)
         {
